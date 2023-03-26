@@ -1,6 +1,7 @@
 body
 {
 margin: auto;
+font-family: monospace;
 }
 
 #main
@@ -10,7 +11,7 @@ margin-top: 94px;
 
 #header
 {
-background-color: black;
+background-color: rgb(244,50,50);
 width: 100%;
 top: 0;
 position: absolute;
@@ -34,7 +35,6 @@ width: 100%;
 {
 color: white;
 float: left;
-font-family: georgia;
 margin-top: 25px;
 margin-left: 150px;
 font-size: 40px;
@@ -137,7 +137,6 @@ margin-top: 58px;
 {
 color: white;
 text-align: center;
-font-family: Engravers MT;
 font-size: 17px;
 }
 
@@ -153,7 +152,6 @@ background-color: #111;
 color: white;
 font-size: 15px;
 font-weight: bold;
-font-family: georgia;
 }
 
 input[type="text"]:hover
@@ -173,7 +171,6 @@ background-color: #111;
 color: white;
 font-size: 15px;
 font-weight: bold;
-font-family: georgia;
 resize: none;
 }
 
@@ -214,7 +211,6 @@ border-radius: 20px;
 .inp
 {
 font-size: 25px;
-font-family: georgia;
 text-align: justify;
 margin-left: 20%;
 margin-right: 20%;
